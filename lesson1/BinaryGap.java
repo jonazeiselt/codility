@@ -33,8 +33,7 @@ public class BinaryGap {
                     }
                 }
             }
-        }
-                
+        }          
         long end = System.currentTimeMillis();
         System.out.println("Time taken to execute function: " + (end - start) + " ms");
         
