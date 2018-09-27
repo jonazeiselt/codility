@@ -5,6 +5,7 @@ package lesson1;
  * Created by Jonas Eiselt on 2018-09-23.
  */
 public class BinaryGap {
+	
 	public int getLongestGap(int N) {
         long start = System.currentTimeMillis();
         
